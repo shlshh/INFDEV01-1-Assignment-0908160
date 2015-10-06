@@ -16,6 +16,4 @@ if password.islower():
     print "Your Password only contains lower letters"
 
 if password.isdigit():
-    print " "
-else:
-    print "Your Password does not contain a Number"
+    print "Your Password only contains numbers"
